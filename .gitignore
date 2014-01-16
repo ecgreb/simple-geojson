@@ -2,4 +2,5 @@ build
 .idea/
 geojson.iml
 out/
+target
 
